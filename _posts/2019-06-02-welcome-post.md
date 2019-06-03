@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog!"
+date: 2019-06-02
+---
+
 # Welcome to my blog!
 
 This is a first attempt at using GitHub Pages to make a new blog site.
